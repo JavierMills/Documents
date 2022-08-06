@@ -1,0 +1,105 @@
+{
+    "Reporte_Bolsa":[
+    
+    {
+        "Aviso": "",
+        "Cve_Programa":1244,
+        "Estatus": "ACTIVA",
+        "Programa": "AUTOMOTRIZ MXP USD COMEX",
+        "Fecha_Liberacion": "2022-08-03",
+        "Concedido": 1200200,
+        "Dispuesto": 18000000,
+        "%_Dispuesto": "15.87%",
+        "Disponible": 9000000,
+        "%_Disponeble": "36.12%",
+        "Detalle": ""
+      },
+             
+       
+    {
+        "Aviso": "",
+        "Cve_Programa":1240,
+        "Estatus": "DESACTIVADA",
+        "Programa": "EMPRESAS COMEX",
+        "Fecha_Liberacion": "2022-08-03",
+        "Concedido": 1400200,
+        "Dispuesto": 14000000,
+        "%_Dispuesto": "14.87%",
+        "Disponible": 9000000,
+        "%_Disponeble": "30.12%",
+        "Detalle": ""
+      },    
+       
+      {
+        "Aviso": "",
+        "Cve_Programa":1244,
+        "Estatus": "ACTIVA",
+        "Programa": "AUTOMOTRIZ MXP USD COMEX",
+        "Fecha_Liberacion": "2022-08-03",
+        "Concedido": 1200200,
+        "Dispuesto": 18000000,
+        "%_Dispuesto": "15.87%",
+        "Disponible": 9000000,
+        "%_Disponeble": "36.12%",
+        "Detalle": ""
+      },
+             
+       
+    {
+        "Aviso": "",
+        "Cve_Programa":1240,
+        "Estatus": "DESACTIVADA",
+        "Programa": "EMPRESAS COMEX",
+        "Fecha_Liberacion": "2022-08-03",
+        "Concedido": 1400200,
+        "Dispuesto": 14000000,
+        "%_Dispuesto": "14.87%",
+        "Disponible": 9000000,
+        "%_Disponeble": "30.12%",
+        "Detalle": ""
+      },
+       
+      {
+        "Aviso": "",
+        "Cve_Programa":1244,
+        "Estatus": "ACTIVA",
+        "Programa": "AUTOMOTRIZ MXP USD COMEX",
+        "Fecha_Liberacion": "2022-08-03",
+        "Concedido": 1200200,
+        "Dispuesto": 18000000,
+        "%_Dispuesto": "15.87%",
+        "Disponible": 9000000,
+        "%_Disponeble": "36.12%",
+        "Detalle": ""
+      },
+             
+       
+    {
+        "Aviso": "",
+        "Cve_Programa":1240,
+        "Estatus": "DESACTIVADA",
+        "Programa": "EMPRESAS COMEX",
+        "Fecha_Liberacion": "2022-08-03",
+        "Concedido": 1400200,
+        "Dispuesto": 14000000,
+        "%_Dispuesto": "14.87%",
+        "Disponible": 9000000,
+        "%_Disponeble": "30.12%",
+        "Detalle": ""
+      }
+      {
+        "Aviso": "",
+        "Cve_Programa":1244,
+        "Estatus": "DESCTIVADA",
+        "Programa": "AUTOMOTRIZ MXP USD COMEX",
+        "Fecha_Liberacion": "2022-08-03",
+        "Concedido": 1200200,
+        "Dispuesto": 18000000,
+        "%_Dispuesto": "15.87%",
+        "Disponible": 9000000,
+        "%_Disponeble": "36.12%",
+        "Detalle": ""
+      }
+]
+    
+}
