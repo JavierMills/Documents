@@ -9,9 +9,9 @@
         "Fecha_Liberacion": "2022-08-03",
         "Concedido": 1200200,
         "Dispuesto": 18000000,
-        "%_Dispuesto": "15.87%",
+        "Porcentaje_Dispuesto": "15.87%",
         "Disponible": 9000000,
-        "%_Disponeble": "36.12%",
+        "Porcentaje_Disponible": "36.12%",
         "Detalle": ""
       },
              
@@ -24,9 +24,9 @@
         "Fecha_Liberacion": "2022-08-03",
         "Concedido": 1400200,
         "Dispuesto": 14000000,
-        "%_Dispuesto": "14.87%",
+        "Porcentaje_Dispuesto": "14.87%",
         "Disponible": 9000000,
-        "%_Disponeble": "30.12%",
+        "Porcentaje_Disponible": "30.12%",
         "Detalle": ""
       },    
        
@@ -38,9 +38,9 @@
         "Fecha_Liberacion": "2022-08-03",
         "Concedido": 1200200,
         "Dispuesto": 18000000,
-        "%_Dispuesto": "15.87%",
+        "Porcentaje_Dispuesto": "15.87%",
         "Disponible": 9000000,
-        "%_Disponeble": "36.12%",
+        "Porcentaje_Disponible": "36.12%",
         "Detalle": ""
       },
              
@@ -53,9 +53,9 @@
         "Fecha_Liberacion": "2022-08-03",
         "Concedido": 1400200,
         "Dispuesto": 14000000,
-        "%_Dispuesto": "14.87%",
+        "Porcentaje_Dispuesto": "14.87%",
         "Disponible": 9000000,
-        "%_Disponeble": "30.12%",
+        "Porcentaje_Disponible": "30.12%",
         "Detalle": ""
       },
        
@@ -67,9 +67,9 @@
         "Fecha_Liberacion": "2022-08-03",
         "Concedido": 1200200,
         "Dispuesto": 18000000,
-        "%_Dispuesto": "15.87%",
+        "Porcentaje_Dispuesto": "15.87%",
         "Disponible": 9000000,
-        "%_Disponeble": "36.12%",
+        "Porcentaje_Disponible": "36.12%",
         "Detalle": ""
       },
              
@@ -82,9 +82,9 @@
         "Fecha_Liberacion": "2022-08-03",
         "Concedido": 1400200,
         "Dispuesto": 14000000,
-        "%_Dispuesto": "14.87%",
+        "Porcentaje_Dispuesto": "14.87%",
         "Disponible": 9000000,
-        "%_Disponeble": "30.12%",
+        "Porcentaje_Disponible": "30.12%",
         "Detalle": ""
       },
       {
@@ -95,9 +95,9 @@
         "Fecha_Liberacion": "2022-08-03",
         "Concedido": 1200200,
         "Dispuesto": 18000000,
-        "%_Dispuesto": "15.87%",
+        "Porcentaje_Dispuesto": "15.87%",
         "Disponible": 9000000,
-        "%_Disponeble": "36.12%",
+        "Porcentaje_Disponible": "36.12%",
         "Detalle": ""
       }
 ]
